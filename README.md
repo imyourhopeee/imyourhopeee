@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Main Projects
 
 - **Whitehat School 3기 | Team Cloudfence**
   소규모 기업 대상 'DevSecOps 인프라 아키텍처' 구축
